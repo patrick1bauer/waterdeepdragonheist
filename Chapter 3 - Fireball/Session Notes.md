@@ -82,10 +82,124 @@ As Sloppyjoe frees himself from his grave, several other hands pop out of the gr
 6 Skeletons dig themselves out of the dirt. Roll for initiative.
 
 
-
-
 After the party successfully defeats the undead, a couple members of the Emerald Enclave appear and question the party.
-"Grave robbers! Stop right there."
+"Necromancers! Stop right there."
+
+* The party members can either tell them the truth or lie with a deception check. 
+* Either way, if the other Emerald Enclave members find out this forbidden ritual has been cast to revive Sloppyjoe, then Melannor and the entire party are immediately revoked of their status in the Emerald Enclave and kicked out of the graveyard.
+
+# Chapter 3: Fireball
+
+"Windows rattle as the roar of an explosion fills Trollskull Alley. Charred bodies and anguished screams fly through the air. A thick cloud of acrid smoke billows outward from the blast, which seems to have occured right out-side your door."
+
+Where are your characters and what are they doing?
+
+* DC 13 Intelligence (Arcana) check to conclude that someone just cast a fireball spell outside.
 
 
-. The party members can either tell them the truth or lie with a deception check. Either way, if the other Emerald Enclave members find out this forbidden ritual has been cast to revive Sloppyjoe, then Melannor and the entire party are immediately revoked of their status in the Emerald Enclave and kicked out of the graveyard.
+#################################################
+Dalakhar - Rock Gnome spy was carrying the Stone of Golorr
+Urstul Floxin - Zhent assassin plucked Stone of Golorr and eventually made his way to Gralhund Villa
+Yalah Gralhund
+Orond Gralhund - heads of the Gralhund noble family, providing shelter to the Zhent assassins in exchange for a share of the hidden gold.
+
+Gralhunds' assassin - nimblewright (wood humanoid construct, page 212) sent by Gralhund family to ensure Urstul obtained the Stone of Golor. Used the fireball necklace.
+
+This whole incedent put a strain on the alliance between Gralhunds and the Black Network.
+Urstul is refusing to hand over the Stone of Golorr, the Gralhunds are considering murdering him in their own house.
+
+
+During the character's investigations, they should learn the following:
+* A nimblewright cast the fireball
+* The act was committed to steal the Stone of Golorr
+* The stone was taken to Gralhund Villa
+
+If the investigation stalls, friendly NPCs might step up to help in exchange for compensation.
+Vincent Trench - private detective who lives in Trollskull Alley (Chapter 2, area T5).
+Can also consult with friendly factions such as the Harpers.
+
+#################################################
+
+* If the party searches the bodies:
+* DC 15 Wisdom (Perception) Check reveals the following:
+One of the dead male humans has a black, winged snake tattoed on his right forearm.
+The dead gnome has dry waste on his boots and cloak, suggesting he has spent time in the sewers recently. He also has a pouch containing 5 gemstones worth 100gp each.
+
+* Attempting to steal the pouch without being seen by NPC onlookers requires a DC 13 Dexterity (Slight of hand) check.
+* On a failed check, still get the pouch, but someone observes the theft and reports it to the City Watch constables once they show up.
+The witness to the theft can be silenced with a bribe of 50 or more gold.
+
+The city watch arrives and cordons off Trollskull Alley. 6 guards are posted at each entrance and 6 more guards including a seargeant watch over the dead bodies until the City Watch arrives. Lingering smoke from the fireball also attracts a Griffon Cavalry rider to watch the streets and alleys for suspicious figures.
+
+Seath Cromley - City Watch sergeant
+Barnibus Blastwind - Watchful Order of Magists and Protectors member.
+
+* Barnibus takes charge of the investigation, Seath directs 20 constables (veterans) to knock on doors and question locals.
+
+* If characters request to join the investigation:
+Barnibus says with a frown: "That would introduce too many new variables into an already confounding equation"
+"Trust in the watch" Cromley adds dismissively.
+* DC 15 Charisma (Persuasion) check to press Barnibus for farther information:
+The gnome was running from armed pursuers, of which there were three. The third person who was chasing the gnome isn't among the dead.
+The gnome and his pursuers were moving toward the tavern in Trollskull Alley (Which Barnibus will soon come to realize is the characters' property).
+Neither the gnome nor his pursuers saw the blast coming.
+
+* Eyewitnesses:
+
+Fala Lefaliir - Corellon's Crown owner
+"I was watering plants in the greenhouse on the second floor of my shop when the blast blew out some of the windows. Lucky I wasn't injured! Through the smoke, I saw a cloaked man take something from the body of a dead gnome, then start limping away. He was badly burned and casting glances over his shoulder, like he was afraid someone might be following him. He was headed toward the Bent Nail."
+
+Jezrynne Hornraven - Waterdavian born of wealth and privilege
+"I tell you, it was not a man. More like a puppet shaped like a man. A puppet without strings. It was on the rooftop. It hurled something into the crowd below that caused the explosion. I saw those haflings burned alive! I saw them!"
+* If Jezrynne is questioned farther, he gives a description of the creature that set off the fireball.
+"It bears striking similarity to the atomatons that sometimes march in the Day of Wonders parade (Hosted in the fall).
+* The parade is hosted by the local temple of Gond, characters can visit the temple and investigate a possible connection.
+
+Martem Trec - 12 year old boy who's hafling friends perished in the flames.
+"Right after the explosion, I ducked behind a rain barrel. Then I heard a 'plop' and found this in the barrel."
+He produces a necklace of fireballs with two beads remaining and a broken clasp.
+DC 8 Charisma (Intimidation or Persuasion) check gets him to give it to the characters.
+
+# Speaking with the Victims
+
+The dead are taken to a City Watch station in the North Ward and kept in a cellar morgue.
+
+Any faction can be petitioned to hire a cleric to cast speak with dead on one or more of the victims, or hire one themselves by making a 25 gp donation. They must provide a list of questions they want answered.
+
+Dalakhar:
+Dalakhar stole an artifact called the Stone of Golorr from the lair of a beholder known as Xanathar, in a dungeon deep bleow the city.
+Dalakhar worked for the Open Lord of Waterdeep. (Lord Dagult Neverember, not Laeral Silverhand)
+The Stone of Golorr is the key to finding a hoard of dragons hidden in the city.
+Dalakhar heard about a group of adventurers who rescued Lord Neverember's Son from the Zhentarim and thought the Stone of Golorr would be safe in their hands for the time being. He was on his way to deliver it to them, planning to come back and reclaim it after he had eluded his pursuers. Then the fireball went off.
+
+Zhentarim Sellswords:
+Their names were Bashekk Ortallis and Wern Malkrave. THey worked for Urstul Floxin and resided at Gralhund Villa.
+Their job was to help catch a gnome named Dalakhar.
+Dalakhar had some kind of artifact in his posession which, according to Urstul Floxin, would make them as rich as kings.
+
+# House of Inspired Hands (Temple of Gond)
+
+"The House of Inspired Hands looks like a cross between a temple and a workshop. The symbol of Gond, a toothed cog with four spokes, is displayed prominently. You see the silhouette of a humanoid shape perching on the rooftop. It extends an arm, releasing a tiny metal sparrow into the sky. THe bird does a few loops in the air, then veers right toward you.
+
+Roll for initiative.
+* Nim's mechanical bird acts on initiative count 10, flying speed of 60 and starts 60 feet from the characters.
+* AC 15
+* 1 HP
+* Immunity to poison and psychic damage
+* On its turn it flies toward one party member and does a mele weapon attack (+0 to hit)
+* 2 (1d4) piercing damage
+* Destroyed on impact.
+* Nim withdraws into the temple's attac through a secret hatch in the roof.
+
+The main hall of the temple holds two dozen marble pedestals. Each one bears a prize-winning invention or a miniature model of some other extraordinary creation. Among the displays are several that stand out:
+
+Valetta - dragonborn priest of bronze dragon ancestry
+
+# Heldar's Reward for saving him
+
+* Heldar comes by sober to thank the party for saving him the other day and gives them 50 gold a piece.
+
+
+
+
+
